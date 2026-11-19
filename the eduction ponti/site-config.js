@@ -6,7 +6,7 @@
    ===================================================================== */
 const SITE = {
   // Your coaching / library name. Also used on receipts and PDFs.
-  name: "THE EDUCATION POINT",
+  name: "THE EDUCATION ",
 
   tagline: "",
   subtitle: "",
@@ -16,7 +16,7 @@ const SITE = {
   slideSeconds: 4, // seconds each photo stays
 
   phone: "7897275614",
-  whatsapp: "9506230365",
+  whatsapp: "7897275614",
   address: "Bhadra Makrand, Hajipur, Azamgarh, Uttar Pradesh.",
   hours: "Open 6 AM to 6 PM, all days",
 
