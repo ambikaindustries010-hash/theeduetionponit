@@ -15,7 +15,7 @@ const SITE = {
   heroImages: ["images/hero1.jpg", "images/hero2.jpg", "images/hero3.jpg" , ],
   slideSeconds: 4, // seconds each photo stays
 
-  phone: "9506230365",
+  phone: "7897275614",
   whatsapp: "9506230365",
   address: "Bhadra Makrand, Hajipur, Azamgarh, Uttar Pradesh.",
   hours: "Open 6 AM to 6 PM, all days",
