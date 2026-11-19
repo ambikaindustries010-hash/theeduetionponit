@@ -6,7 +6,7 @@
    ===================================================================== */
 const SITE = {
   // Your coaching / library name. Also used on receipts and PDFs.
-  name: "THE EDUCATION ",
+  name: "THE EDUCATION PONIT",
 
   tagline: "",
   subtitle: "",
