@@ -1,0 +1,4 @@
+# Static HTML site — no framework, no package manager, no build step.
+# Netlify publishes the folder below as-is.
+[build]
+  publish = "the eduction ponti"
